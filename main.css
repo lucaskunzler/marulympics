@@ -1,0 +1,22 @@
+@page {
+   size: A4;
+}
+@font-face {
+  font-family: "Rio2016";
+  src: url("../fonts/Rio2016-Light.eot");
+  src: url("../fonts/Rio2016-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Rio2016-Light.woff2") format("woff2"), url("../fonts/Rio2016-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+img {
+    margin: auto;
+    display: block;
+    fill: #f00;
+}
+h1 {
+    font-family: "Rio2016";
+    font-size: 3rem;
+    margin: 1rem 0;
+    margin-bottom: 5rem;
+    color: #000;
+    text-align: center;
+}

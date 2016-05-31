@@ -1,0 +1,181 @@
+@font-face {
+  font-family: "Rio2016";
+  src: url("../fonts/Rio2016-Light.eot");
+  src: url("../fonts/Rio2016-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Rio2016-Light.woff2") format("woff2"), url("../fonts/Rio2016-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Rio2016";
+  src: url("../fonts/Rio2016-Regular.eot");
+  src: url("../fonts/Rio2016-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Rio2016-Regular.woff2") format("woff2"), url("../fonts/Rio2016-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-Light.eot");
+  src: url("../fonts/TheMixRio2016-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-Light.woff2") format("woff2"), url("../fonts/TheMixRio2016-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-LightItalic.eot");
+  src: url("../fonts/TheMixRio2016-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-LightItalic.woff2") format("woff2"), url("../fonts/TheMixRio2016-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-Regular.eot");
+  src: url("../fonts/TheMixRio2016-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-Regular.woff2") format("woff2"), url("../fonts/TheMixRio2016-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-Italic.eot");
+  src: url("../fonts/TheMixRio2016-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-Italic.woff2") format("woff2"), url("../fonts/TheMixRio2016-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-Bold.eot");
+  src: url("../fonts/TheMixRio2016-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-Bold.woff2") format("woff2"), url("../fonts/TheMixRio2016-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-BoldItalic.eot");
+  src: url("../fonts/TheMixRio2016-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-BoldItalic.woff2") format("woff2"), url("../fonts/TheMixRio2016-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-Black.eot");
+  src: url("../fonts/TheMixRio2016-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-Black.woff2") format("woff2"), url("../fonts/TheMixRio2016-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheMixRio2016";
+  src: url("../fonts/TheMixRio2016-BlackItalic.eot");
+  src: url("../fonts/TheMixRio2016-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheMixRio2016-BlackItalic.woff2") format("woff2"), url("../fonts/TheMixRio2016-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-Light.eot");
+  src: url("../fonts/TheSansRio2016-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-Light.woff2") format("woff2"), url("../fonts/TheSansRio2016-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-LightItalic.eot");
+  src: url("../fonts/TheSansRio2016-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-LightItalic.woff2") format("woff2"), url("../fonts/TheSansRio2016-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-Regular.eot");
+  src: url("../fonts/TheSansRio2016-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-Regular.woff2") format("woff2"), url("../fonts/TheSansRio2016-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-Italic.eot");
+  src: url("../fonts/TheSansRio2016-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-Italic.woff2") format("woff2"), url("../fonts/TheSansRio2016-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-Bold.eot");
+  src: url("../fonts/TheSansRio2016-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-Bold.woff2") format("woff2"), url("../fonts/TheSansRio2016-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-BoldItalic.eot");
+  src: url("../fonts/TheSansRio2016-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-BoldItalic.woff2") format("woff2"), url("../fonts/TheSansRio2016-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-Black.eot");
+  src: url("../fonts/TheSansRio2016-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-Black.woff2") format("woff2"), url("../fonts/TheSansRio2016-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSansRio2016";
+  src: url("../fonts/TheSansRio2016-BlackItalic.eot");
+  src: url("../fonts/TheSansRio2016-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSansRio2016-BlackItalic.woff2") format("woff2"), url("../fonts/TheSansRio2016-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-Light.eot");
+  src: url("../fonts/TheSerifRio2016-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-Light.woff2") format("woff2"), url("../fonts/TheSerifRio2016-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-LightItalic.eot");
+  src: url("../fonts/TheSerifRio2016-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-LightItalic.woff2") format("woff2"), url("../fonts/TheSerifRio2016-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-Regular.eot");
+  src: url("../fonts/TheSerifRio2016-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-Regular.woff2") format("woff2"), url("../fonts/TheSerifRio2016-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-Italic.eot");
+  src: url("../fonts/TheSerifRio2016-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-Italic.woff2") format("woff2"), url("../fonts/TheSerifRio2016-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-Bold.eot");
+  src: url("../fonts/TheSerifRio2016-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-Bold.woff2") format("woff2"), url("../fonts/TheSerifRio2016-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-BoldItalic.eot");
+  src: url("../fonts/TheSerifRio2016-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-BoldItalic.woff2") format("woff2"), url("../fonts/TheSerifRio2016-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-Black.eot");
+  src: url("../fonts/TheSerifRio2016-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-Black.woff2") format("woff2"), url("../fonts/TheSerifRio2016-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: "TheSerifRio2016";
+  src: url("../fonts/TheSerifRio2016-BlackItalic.eot");
+  src: url("../fonts/TheSerifRio2016-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/TheSerifRio2016-BlackItalic.woff2") format("woff2"), url("../fonts/TheSerifRio2016-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic; }
