@@ -3,17 +3,21 @@
 }
 @font-face {
   font-family: "Rio2016";
-  src: url("../fonts/Rio2016-Light.eot");
-  src: url("../fonts/Rio2016-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Rio2016-Light.woff2") format("woff2"), url("../fonts/Rio2016-Light.woff") format("woff");
+  src: url("Rio2016-Light.woff2") format("woff2");
   font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Rio2016-Regular";
+  src: url("Rio2016-Regular.woff2") format("woff2");
+  font-weight: 400;
   font-style: normal; }
 img {
     margin: auto;
-    display: block;
-    fill: #f00;
+    display: block;	
 }
 h1 {
-    font-family: "Rio2016";
+    font-family: "Rio2016-Regular";
     font-size: 3rem;
     margin: 1rem 0;
     margin-bottom: 5rem;
